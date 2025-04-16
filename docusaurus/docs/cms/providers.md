@@ -115,6 +115,8 @@ module.exports = ({ env }) => ({
 
 ```ts title="/config/plugins.ts"
 
+## MISSING: env() is not recognized if not included. This code needs to be updated.
+
 export default ({ env }) => ({
   // ...
   upload: {
